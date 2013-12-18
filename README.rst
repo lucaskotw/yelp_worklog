@@ -8,8 +8,8 @@ the most important issue for restaurant
 
 Stage 1: Tag Train Data
 -----------------------
-:status done
-:problem
+:status: done
+:problem:
 1. lose `location` tag
 
 
