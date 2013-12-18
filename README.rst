@@ -8,8 +8,8 @@ the most important issue for restaurant
 
 Stage 1: Tag Train Data
 -----------------------
-:status: done
-:problem:
+:status done
+:problem
 1. lose `location` tag
 
 
@@ -49,3 +49,5 @@ Unsolved Issue
 7. Assign the part to each group member
 8. Study SVM classifier api
 9. Related User Activeness and Reliability to Selected Reviews
+10. Trainig data via iterating diffience sizes of training datasets
+11. Verify the correctness of created model based on Naive Bayes Model
